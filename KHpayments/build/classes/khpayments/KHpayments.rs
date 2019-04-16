@@ -1,0 +1,11 @@
+khpayments.Employee
+khpayments.garments
+khpayments.BPCemployee
+khpayments.pharmaceuticals
+khpayments.Semployee
+khpayments.Hemployee
+khpayments.Payments
+khpayments.Supplier
+khpayments.Cemployee
+khpayments.KHpayments
+khpayments.ElectronicGoods
